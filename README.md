@@ -1,5 +1,3 @@
-Projeto realizado com 3 classes se referindo a Aluno, FuncoesUteis, Pessoa e a outra como Principal para executar o projeto, tudo em java.
-
 🚀 Crie um pacote para armazenar as classes Pessoa e Aluno.
 
 Uma pessoa tem os atributos nome, cpf, peso e altura.
@@ -25,4 +23,4 @@ IDE Eclipse 📌 Versão Eclipse IDE for Java Developers - 2024-12
 
 Versão 1.0 caso seja atualizado manter a descrição inicial e inserir uma nova linha com descrição da atualização. Versão 1.1 - Fatoração data 09/09/24 ✒️ Autores
 
-Fernando Bloes - Etapa Bonus HERANÇA - Atividade individual Lista de Exercícios - Etapa Bonus HERANÇA
+Fernando Bloes - Etapa Bonus HERANÇA - Atividade individual Lista de Exercícios - Etapa Bonus
